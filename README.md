@@ -8,6 +8,8 @@
 - [Introduction](#introduction)
 - [ Skills demonstrated for the project](#skills-demonstrated-for-the-project)
 - [Data Transformation](#data-transformation)
+- [Analysis and Visualization](analysis-and-visualization)
+- [Conclusion and Recommendation](conclusion-and-recommendation)
 
 ### Introduction
 
@@ -111,8 +113,6 @@ The Healthcare data was not in a clean format, so I had to clean and transform i
 
 I chose to create simple and easy-to-understand visuals. I used mild and friendly colors. These colors are also bold and eye-catching, which helps to make the visuals more memorable. I wanted to ensure that the visualization would be easily understood by anyone who viewed it, regardless of their level of expertise.
 
-I created a number of visuals to show the income, expenses, and top reasons for debit and added filters to the dashboard so that the user can customize the data.
-
 The Dashboard comprises of these visuals:
 
 #### Patients Visit by weektype
@@ -149,8 +149,10 @@ From the analysis and visualization, their are evenly distribution of Satisticti
 
 <img width="674" alt="Healthcare dashboard" src="https://github.com/Chiamakavivian/Healthcare-Patients-Analysis/assets/156147087/db8bc0b3-13d0-4f32-8120-9784761fc320">
 
-You can interact with the report [Here](
-### Conclusion Recommendation:
+You can interact with the report [Here](https://app.powerbi.com/groups/me/reports/8e6d137c-4942-4322-a586-b5d2e98983c6?experience=power-bi)
+
+
+### Conclusion and Recommendation:
 I realized that the waiting times across various departments exhibit significant variability, indicating potential inefficiencies in care delivery processes. Addressing bottlenecks and streamlining workflows can lead to substantial improvements in patient satisfaction and operational efficiency.
 
 I realized that by examing monthly visit trends we can discern seasonal patterns in patient demand, enablingproactive resource allocation and staffing adjustments to ensure optimal care delivery and minimize wait times during peak periods.
