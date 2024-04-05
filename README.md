@@ -8,8 +8,8 @@
 - [Introduction](#introduction)
 - [ Skills demonstrated for the project](#skills-demonstrated-for-the-project)
 - [Data Transformation](#data-transformation)
-- [Analysis and Visualization](analysis-and-visualization)
-- [Conclusion and Recommendation](conclusion-and-recommendation)
+- [Analysis and Visualization](#analysis-and-visualization)
+- [Conclusion and Recommendation](#conclusion-and-recommendation)
 
 ### Introduction
 
